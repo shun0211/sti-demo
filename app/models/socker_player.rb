@@ -1,0 +1,3 @@
+class SockerPlayer < Player
+
+end
